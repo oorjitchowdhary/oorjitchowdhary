@@ -6,7 +6,7 @@ I'm interested in building tech for finance, user experience, public-interest sy
 - studying Electrical & Computer Engineering, Economics, Data Science, and Applied Math.
 - interning at UW's [eScience Institute](https://escience.washington.edu) for optimizing cloud usage for research computing.
 - leading Partnership Development at [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest.
-- serving as VP of Corporate Outreach at the [UW PM Association](https://www.instagram.com/uwpma), the official Product + Program + Project Management club on campus.
+- serving as VP of Corporate Outreach at the [PM Association](https://www.instagram.com/uwpma), UW's official Product + Program + Project Management club.
 
 --<br/>
 Let's talk: oorjitc@uw.edu.
