@@ -10,7 +10,7 @@ I'm interested in building tech for finance, user experience, public-interest sy
 
 #### Previously, I was involved with:
 - UW's [eScience Institute](https://escience.washington.edu) for designing cost-optimized, scalable cloud workflows for research computing.
-- [HDFC Securities](https://www.hdfcsec.com), researching potential product overhauls of online brokerage platforms in the context of Gen Z consumers and Gen AI.
+- [HDFC Securities](https://www.hdfcsec.com), researching Gen AI product overhauls of online brokerage platforms in the context of Gen Z consumers.
 - the MLH Fellowship, learning best practices in software engineering from industry professionals.
 - and Google Code-in for technical contributions to [Public Lab](https://publiclab.org), an environment-focused open-source nonprofit.
 
