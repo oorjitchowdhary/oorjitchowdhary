@@ -4,9 +4,15 @@ I'm interested in building tech for finance, user experience, public-interest sy
 
 #### Currently, I am:
 - studying Electrical & Computer Engineering, Economics, Data Science, and Applied Math.
-- interning at UW's [eScience Institute](https://escience.washington.edu) for optimizing cloud usage for research computing.
+- interning at 𝕏 (fka Twitter) in their core infrastructure team in San Francisco.
 - leading Partnership Development at [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest.
 - serving as VP of Corporate Outreach at the [PM Association](https://www.instagram.com/uwpma), UW's official Product + Program + Project Management club.
+
+#### Previously, I was involved with:
+- UW's [eScience Institute](https://escience.washington.edu) for designing cost-optimized, scalable cloud workflows for research computing.
+- [HDFC Securities](https://www.hdfcsec.com), researching potential product overhauls of online brokerage platforms in the context of Gen Z consumers and Gen AI.
+- the MLH Fellowship, learning best practices in software engineering from industry professionals.
+- and Google Code-in for technical contributions to [Public Lab](https://publiclab.org), an environment-focused open-source nonprofit.
 
 --<br/>
 Let's talk: oorjitc@uw.edu.
