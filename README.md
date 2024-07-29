@@ -1,10 +1,10 @@
 **Hi! I'm Oorjit,** a rising junior at University of Washington, Seattle from New Delhi, India.
 
-I'm interested in building tech for finance, user experience, public-interest systems, or scientific research. If you're curious about my past experience and specific skills, feel free to check out my resume [here](./assets/resume.pdf).
+I'm interested in building tech for public-interest systems, finance, user experience, or scientific research. If you're curious about my past experience and specific skills, feel free to check out my resume [here](./assets/resume.pdf).
 
 #### Currently, I am:
 - studying Electrical & Computer Engineering, Economics, Data Science, and Applied Math.
-- interning at 𝕏 (fka Twitter) in their cloud engineering team in San Francisco.
+- interning at 𝕏 (fka Twitter) in their foundational services team in San Francisco.
 - leading Partnership Development at [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest.
 - serving as VP of Corporate Outreach at the [PM Association](https://www.instagram.com/uwpma), UW's official Product + Program + Project Management club.
 
