@@ -4,8 +4,8 @@ I'm interested in building tech for public-interest systems, finance, user exper
 
 #### Currently, I am:
 - studying Electrical & Computer Engineering, Economics, Data Science, and Applied Math.
-- helping execute the UW Task Force's recommendations for University-wide AI enablement.
-- leading Partnership Development at [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest.
+- helping execute the Provost-led AI Task Force's recommendations for University-wide AI enablement at UW.
+- leading the Technical Systems team at [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest.
 - serving as VP of Corporate Outreach at the [PM Association](https://www.instagram.com/uwpma), UW's official Product + Program + Project Management club.
 
 #### Previously, I was involved with:
