@@ -1,6 +1,6 @@
 **Hi! I'm Oorjit,** a rising senior at University of Washington, Seattle from New Delhi, India.
 
-I'm interested in building tech for public-interest systems, finance, user experience, or scientific research. If you're curious about my past experience and specific skills, feel free to check out my resume [here](./assets/resume.pdf).
+I'm interested in building tech for public-interest systems, finance, user experience, or scientific research.
 
 #### Currently, I am:
 - interning at xAI/X in the core infrastructure team for a second summer in Palo Alto.
