@@ -4,10 +4,10 @@ I'm interested in building tech for public-interest systems, finance, user exper
 
 #### Previously, I was involved with:
 - xAI/X in the core infrastructure team for two summers in Palo Alto and San Francisco.
-- the UW Provost-led AI Task Force, helping execute University-wide AI enablement recommendations.
-- [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest, as Technical Systems Lead.
-- [PM Association](https://www.instagram.com/uwpma), UW's official Product + Program + Project Management club, as VP of Corporate Outreach.
 - UW's [eScience Institute](https://escience.washington.edu) for designing cost-optimized, scalable cloud workflows for research computing.
+- the UW Provost-led AI Task Force, helping execute University-wide AI enablement recommendations.
+- [DubHacks](https://dubhacks.co), the largest collegiate hackathon in the Pacific Northwest, as the Tech Lead.
+- [PM Association](https://www.instagram.com/uwpma), UW's official Product + Program + Project Management club, as the VP of Corporate Outreach.
 - [HDFC Securities](https://www.hdfcsec.com), researching Gen AI product overhauls of online brokerage platforms in the context of Gen Z consumers.
 - the MLH Fellowship, learning best practices in software engineering from industry professionals.
 - and Google Code-in for technical contributions to [Public Lab](https://publiclab.org), an environment-focused open-source nonprofit.
